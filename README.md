@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there, my name is Kirill Ivliev 👋
+- I'm QA Engineer 🧑‍💻
+- 🔭 I’m currently working on [Qase TMS](https://qase.io/)
 <!--
 **1ivliev/1ivliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
