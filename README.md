@@ -1,6 +1,7 @@
 ### Hi there, my name is Kirill Ivliev 👋
-- I'm Software QA Engineer 🧑‍💻
-- 🔭 I’m ex Automation QA Engineer in [Qase TMS](https://qase.io/)
+
+- 🧑‍💻 I'm Tech Lead QA in rabota.ru
+- 🔭 I’m ex Automation QA Engineer in [qase TMS](https://qase.io/)
 - 🏋️‍♂️ I love the self-love challenge
 - 🤖 Actively building my own skills in Automation QA
 - I work mostly with backend and frontend tests
